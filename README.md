@@ -1,39 +1,16 @@
-## Welcome to GitHub Pages
-https://github.com/Arial55555/MAGD/tree/gh-pages/f21magd150lab08_klubertanz
+# Welcome to my projects!
+## Here are some MAGD assignments I've made in the past semester:
+[Lab 5: Intersections](https://github.com/Arial55555/MAGD/tree/gh-pages/f21magd150lab05_klubertanz):
+I made a basic TV set, which has 3 channels and a slippery sliding volume bar.
 
+[Lab 6: Organization](https://github.com/Arial55555/MAGD/tree/gh-pages/f21magd150lab06_klubertanz):
+This is my attempt to make an atari controler- it looks cool, I think!
 
-You can use the [editor on GitHub](https://github.com/Arial55555/MAGD/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+[Lab 7: Objects](https://github.com/Arial55555/MAGD/tree/gh-pages/f21magd150lab07_klubertanz):
+Leaves on a screen. Click, and it changes which leaves you're controling.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Lab 8: Type and Image](https://github.com/Arial55555/MAGD/tree/gh-pages/f21magd150lab08_klubertanz):
+**[Sharky and Palp! The Team Bros of the Sea! Sharky and Palp! We dance in victory!](https://www.youtube.com/watch?v=j4J_LYl_tQU&t=327s)**
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Arial55555/MAGD/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Lab 10: 3D and Data](https://github.com/Arial55555/MAGD/tree/gh-pages/f21magd150lab10_klubertanz):
+The lab had to be 3D, and it had to have a CSV file- and the only CSV I had was a Yu-Gi-Oh database.
